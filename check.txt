@@ -1,0 +1,6 @@
+echo hello
+echo heyy
+grep xv6 < README
+cat README > hello.txt
+ls | wc
+ls ; cat < README	//error in this command
